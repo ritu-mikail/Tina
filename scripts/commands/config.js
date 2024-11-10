@@ -1,9 +1,10 @@
 module.exports.config = {
 	name: "config",
 	version: "1.0.0",
-	permission: 2,
+	permission: 3,
   prefix: false,
-	credits: "ryuko",
+  premium: false,
+	credits: "Hamim",
 	description: "config bot",
 	category: "operator",
 	cooldowns: 5
